@@ -170,6 +170,14 @@ GitHub:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 ![CodeChef Stats](https://codechef-readme-stats.onrender.com/madhushalini06?v=1)
 
+
+# 👨‍🍳 CodeChef Stats:
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-madhushalini06-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/madhushalini06)
+
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/madhushalini06?v=1)
+
+
 # 🏆 Achievements & Certifications
 
 - 🎓 **IBM SkillsBuild & AICTE** — AI/ML Virtual Internship | [View Certificate](https://drive.google.com/file/d/1Q815uO33YpAA8y7pNSDDnOt_YVNPv0lg/view?usp=drive_link)
