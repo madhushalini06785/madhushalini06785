@@ -171,6 +171,7 @@ GitHub:https://github.com/madhushalini06785/Employee_Salary_Prediction.git
 
 # 🏆 Achievements & Certifications
 
+- 🎓 **Microsoft Learn** — Microsoft Certified : Azure AI Fundamentals | [View Certificate](https://drive.google.com/file/d/18Kz08nuRJiwPGtTcwVfEw7NpP7WsaYrg/view?usp=sharing)
 - 🎓 **IBM SkillsBuild & AICTE** — AI/ML Virtual Internship | [View Certificate](https://drive.google.com/file/d/1Q815uO33YpAA8y7pNSDDnOt_YVNPv0lg/view?usp=drive_link)
 - 📊 **Tata Group — Forage** — Data Analytics Job Simulation | [View Certificate](https://drive.google.com/file/d/1vYMrd0fP7nRsn1CaJJaquovI5v9nIxPX/view?usp=sharing)
 - 🧠 **Google** — Introduction to Generative AI | [View Certificate](YOUR_GOOGLE_CERTIFICATE_LINK)
